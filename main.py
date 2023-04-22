@@ -1,7 +1,7 @@
 
 import requests
 import json
-OPENAI_API_KEY ="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"
+OPENAI_API_KEY ="TOKEN HERE"
 
 
 
